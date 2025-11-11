@@ -27,21 +27,21 @@ As I wrote in <a href="https://www.aienabledpm.com/p/beyond-prototyping-why-syst
 
 ## How I Prototype with AI
 
-I build fully-functional prototypes using tools like **Lovable, Cursor, and Supabase** — the workflow I call the **LoCuS Stack**.  
+I build fully-functional prototypes using tools like **Lovable, Cursor, and Supabase** - the workflow I call the **LoCuS Stack**.  
 
 I wrote about this approach in <a href="https://www.aienabledpm.com/p/ai-prototyping-mastery-for-product" target="_blank">AI Prototyping Mastery (LoCuS Stack) ↗</a>.
 
 ## Products I'm Building
 
 ### WhiteboardX  
-A canvas for visual thinking — diagrams, flows, and structured ideas.
+A canvas for visual thinking - diagrams, flows, and structured ideas.
 Live: https://www.whiteboardx.co/
 
 ### NewsletterLM  
-A writing workspace where you can drop content anytime — images, PDFs, links — and AI makes it instantly usable when you write.
+A writing workspace where you can drop content anytime (images, PDFs, links), and AI makes it instantly usable when you write.
 
 ### Personal Finance AI  
-An AI-first personal finance prototype that unifies accounts, reveals spending patterns, and lets you explore your money through a Finance Copilot — built to reimagine how personal finance should work.  
+An AI-first personal finance prototype that unifies accounts, reveals spending patterns, and lets you explore your money through a Finance Copilot - built to reimagine how personal finance should work.  
 <a href="https://www.linkedin.com/posts/aviraliitk_ai-personalfinance-activity-7378114277318053888-7-oM" target="_blank">Demo (LinkedIn) ↗</a>
 
 ## Where to Find Me
