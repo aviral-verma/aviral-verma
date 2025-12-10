@@ -34,16 +34,10 @@ I wrote about this approach in <a href="https://www.aienabledpm.com/p/ai-prototy
 ## Products I'm Building
 
 ### WhiteboardX  
-A canvas for visual thinking - diagrams, flows, and structured ideas.
+An AI canvas for smarter brainstorming
 Live: https://www.whiteboardx.co/
 
-### NewsletterLM  
-A writing workspace where you can drop content anytime (images, PDFs, links), and AI makes it instantly usable when you write.
-
 ### Personal Finance AI  
-An AI-first personal finance prototype that unifies accounts, reveals spending patterns, and lets you explore your money through a Finance Copilot - built to reimagine how personal finance should work.  
+An AI-first personal finance prototype that unifies accounts, reveals spending patterns, and lets you explore your money through a Finance Copilot.
 <a href="https://www.linkedin.com/posts/aviraliitk_ai-personalfinance-activity-7378114277318053888-7-oM" target="_blank">Demo (LinkedIn) ↗</a>
 
-## Where to Find Me
-
-**LinkedIn:** https://www.linkedin.com/in/aviraliitk/
