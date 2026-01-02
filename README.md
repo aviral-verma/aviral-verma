@@ -31,6 +31,8 @@ I build fully-functional prototypes using tools like **Lovable, Cursor, and Supa
 
 I wrote about this approach in <a href="https://www.aienabledpm.com/p/ai-prototyping-mastery-for-product" target="_blank">AI Prototyping Mastery (LoCuS Stack) ↗</a>.
 
+I use Claude Code (and occasionally Codex) as my go to tools for building production-ready products.
+
 ## Products I'm Building
 
 ### WhiteboardX  
