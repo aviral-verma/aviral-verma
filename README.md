@@ -36,7 +36,7 @@ I use Claude Code (and occasionally Codex) as my go to tools for building produc
 ## Products I'm Building
 
 ### WhiteboardX  
-An AI canvas for smarter brainstorming
+An AI-native thinking canvas for product teams to explore ideas, synthesize context, and work through decisions before anything gets executed.
 Live: https://www.whiteboardx.co/
 
 ### Personal Finance AI  
